@@ -12,7 +12,7 @@ An infinitely scrollable `NSScrollView` clip view implementation
 
 A pure Swift implementation of [Helftone Infinite Scroll View](https://github.com/helftone/infinite-nsscrollview/). 
 
-There is a [basic demo application](./Demo/HTInfiniteDocument Demo/HTInfiniteDocument Demo.xcodeproj) in the `Demo` subfolder.
+There is a basic demo application in the `Demo` subfolder.
 
 ## Implementation details
 
