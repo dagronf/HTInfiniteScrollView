@@ -10,7 +10,7 @@ An infinitely scrollable `NSScrollView` clip view implementation
 ![macOS](https://img.shields.io/badge/macOS-10.13+-darkblue)
 ![macCatalyst](https://img.shields.io/badge/macCatalyst-2+-orangered)
 
-A pure Swift implementation of [Helftone Infinite Scroll View](https://github.com/helftone/infinite-nsscrollview/). 
+A pure Swift implementation of [Helftone Infinite Scroll View](https://github.com/helftone/infinite-nsscrollview/) ([archive.org](https://web.archive.org/web/20230911024330/https://blog.helftone.com/infinite-nsscrollview/)) supporting Swift Package Manager.
 
 There is a basic demo application in the `Demo` subfolder.
 
@@ -23,6 +23,8 @@ for an example on how to do this.
 # Credits
 
 All credit for the original implementation goes to [Milen Dzhumerov](https://twitter.com/milend) at [Helftone](https://blog.helftone.com/infinite-nsscrollview/). 
+
+Go and buy [Monodraw](https://monodraw.helftone.com/) if you spend any time putting drawings in your code comments (like UML diagrams) or any kind of ASCII art! It makes a laborious task so much easier.
 
 # License
 
